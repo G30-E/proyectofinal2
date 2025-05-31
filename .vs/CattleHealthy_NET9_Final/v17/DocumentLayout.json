@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\cattlehealthy Final\\proyectofinal2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B4BFC20-F187-4A6B-890D-CCFCA84428FA}|CattleHealthy_NET9_Final.csproj|c:\\users\\user\\desktop\\cattlehealthy final\\proyectofinal2\\forms\\diagnosticofotoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B4BFC20-F187-4A6B-890D-CCFCA84428FA}|CattleHealthy_NET9_Final.csproj|solutionrelative:forms\\diagnosticofotoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B4BFC20-F187-4A6B-890D-CCFCA84428FA}|CattleHealthy_NET9_Final.csproj|c:\\users\\user\\desktop\\cattlehealthy final\\proyectofinal2\\forms\\diagnosticofotoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B4BFC20-F187-4A6B-890D-CCFCA84428FA}|CattleHealthy_NET9_Final.csproj|solutionrelative:forms\\diagnosticofotoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B4BFC20-F187-4A6B-890D-CCFCA84428FA}|CattleHealthy_NET9_Final.csproj|c:\\users\\user\\desktop\\cattlehealthy final\\proyectofinal2\\forms\\diagnosticotextoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B4BFC20-F187-4A6B-890D-CCFCA84428FA}|CattleHealthy_NET9_Final.csproj|solutionrelative:forms\\diagnosticotextoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B4BFC20-F187-4A6B-890D-CCFCA84428FA}|CattleHealthy_NET9_Final.csproj|c:\\users\\user\\desktop\\cattlehealthy final\\proyectofinal2\\forms\\diagnosticotextoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B4BFC20-F187-4A6B-890D-CCFCA84428FA}|CattleHealthy_NET9_Final.csproj|solutionrelative:forms\\diagnosticotextoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B4BFC20-F187-4A6B-890D-CCFCA84428FA}|CattleHealthy_NET9_Final.csproj|C:\\Users\\user\\Desktop\\cattlehealthy Final\\proyectofinal2\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B4BFC20-F187-4A6B-890D-CCFCA84428FA}|CattleHealthy_NET9_Final.csproj|solutionrelative:forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DiagnosticoTextoForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\cattlehealthy Final\\proyectofinal2\\Forms\\DiagnosticoTextoForm.cs",
+              "RelativeDocumentMoniker": "Forms\\DiagnosticoTextoForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\cattlehealthy Final\\proyectofinal2\\Forms\\DiagnosticoTextoForm.cs [Design]",
+              "RelativeToolTip": "Forms\\DiagnosticoTextoForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T02:47:26.19Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DiagnosticoFotoForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\cattlehealthy Final\\proyectofinal2\\Forms\\DiagnosticoFotoForm.cs",
+              "RelativeDocumentMoniker": "Forms\\DiagnosticoFotoForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\cattlehealthy Final\\proyectofinal2\\Forms\\DiagnosticoFotoForm.cs [Design]",
+              "RelativeToolTip": "Forms\\DiagnosticoFotoForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T02:43:52.627Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DiagnosticoFotoForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\cattlehealthy Final\\proyectofinal2\\Forms\\DiagnosticoFotoForm.cs",
+              "RelativeDocumentMoniker": "Forms\\DiagnosticoFotoForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\cattlehealthy Final\\proyectofinal2\\Forms\\DiagnosticoFotoForm.cs",
+              "RelativeToolTip": "Forms\\DiagnosticoFotoForm.cs",
+              "ViewState": "AgIAALUAAAAAAAAAAAAYwAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T10:01:35.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DiagnosticoTextoForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\cattlehealthy Final\\proyectofinal2\\Forms\\DiagnosticoTextoForm.cs",
+              "RelativeDocumentMoniker": "Forms\\DiagnosticoTextoForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\cattlehealthy Final\\proyectofinal2\\Forms\\DiagnosticoTextoForm.cs",
+              "RelativeToolTip": "Forms\\DiagnosticoTextoForm.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowE0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T10:00:57.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\cattlehealthy Final\\proyectofinal2\\Forms\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Forms\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\cattlehealthy Final\\proyectofinal2\\Forms\\LoginForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Forms\\LoginForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T10:00:23.724Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -20,11 +20,11 @@ namespace CattleHealthy_NET9_Final.Forms
     public partial class DiagnosticoFotoForm : Form
     {
         // Azure Computer Vision settings
-        private const string VisionApiKey = "               ";
+        private const string VisionApiKey = "1weK5om3n18jAcDhHsVIyZU2y4CYVlIKkk4KrEYfg3F85GdNEC3aJQQJ99BEACYeBjFXJ3w3AAAFACOG6qfT";
         private const string VisionEndpoint = "https://cattlehealthy-vision.cognitiveservices.azure.com/computervision/imageanalysis:analyze?api-version=2023-10-01&features=caption&model-version=latest";
 
         private const string GroqEndpoint = "https://api.groq.com/openai/v1/chat/completions";
-        private const string GroqApiKey = "              ";
+        private const string GroqApiKey = "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";
         private const string GroqModel = "mixtral-8x7b-32768";
         private PictureBox pictureBox1;
         private byte[] imagenData;

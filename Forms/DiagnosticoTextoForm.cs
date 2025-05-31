@@ -18,7 +18,7 @@ namespace CattleHealthy_NET9_Final.Forms
     public partial class DiagnosticoTextoForm : Form
     {
         private const string GroqEndpoint = "https://api.groq.com/openai/v1/chat/completions";
-        private const string GroqApiKey = "   ";
+        private const string GroqApiKey = "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";
 
         private Button btnExportarPdf;
 

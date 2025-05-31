@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\cattlehealthy prueba\\CattleHealthy_NET9_Final.csproj": {}
+    "C:\\Users\\user\\Desktop\\cattlehealthy Final\\proyectofinal2\\CattleHealthy_NET9_Final.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\cattlehealthy prueba\\CattleHealthy_NET9_Final.csproj": {
+    "C:\\Users\\user\\Desktop\\cattlehealthy Final\\proyectofinal2\\CattleHealthy_NET9_Final.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\cattlehealthy prueba\\CattleHealthy_NET9_Final.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\cattlehealthy Final\\proyectofinal2\\CattleHealthy_NET9_Final.csproj",
         "projectName": "CattleHealthy_NET9_Final",
-        "projectPath": "C:\\Users\\user\\Desktop\\cattlehealthy prueba\\CattleHealthy_NET9_Final.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\cattlehealthy Final\\proyectofinal2\\CattleHealthy_NET9_Final.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\cattlehealthy prueba\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\cattlehealthy Final\\proyectofinal2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
